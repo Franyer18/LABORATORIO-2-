@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DECLARACION Y USO DE VARIABLES/1.0.0": {
+        "runtime": {
+          "DECLARACION Y USO DE VARIABLES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DECLARACION Y USO DE VARIABLES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

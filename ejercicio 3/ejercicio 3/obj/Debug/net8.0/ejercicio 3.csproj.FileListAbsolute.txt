@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\bin\Debug\net8.0\ejercicio 3.exe
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\bin\Debug\net8.0\ejercicio 3.deps.json
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\bin\Debug\net8.0\ejercicio 3.runtimeconfig.json
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\bin\Debug\net8.0\ejercicio 3.dll
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\bin\Debug\net8.0\ejercicio 3.pdb
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\obj\Debug\net8.0\ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\obj\Debug\net8.0\ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\obj\Debug\net8.0\ejercicio 3.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\obj\Debug\net8.0\ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\obj\Debug\net8.0\ejercicio 3.dll
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\obj\Debug\net8.0\refint\ejercicio 3.dll
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\obj\Debug\net8.0\ejercicio 3.pdb
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\obj\Debug\net8.0\ejercicio 3.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\TAREA 2 PROGRAMACION\ejercicio 3\ejercicio 3\obj\Debug\net8.0\ref\ejercicio 3.dll
